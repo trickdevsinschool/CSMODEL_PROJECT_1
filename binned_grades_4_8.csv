@@ -1,0 +1,103 @@
+STATE,AVE_GRADE,GRADE_LVL
+ALABAMA,below average,1
+ALASKA,below average,1
+ARIZONA,below average,1
+ARKANSAS,below average,1
+CALIFORNIA,below average,1
+COLORADO,above average,1
+CONNECTICUT,above average,1
+DELAWARE,average,1
+DISTRICT_OF_COLUMBIA,below average,1
+FLORIDA,above average,1
+GEORGIA,below average,1
+HAWAII,average,1
+IDAHO,above average,1
+ILLINOIS,below average,1
+INDIANA,above average,1
+IOWA,average,1
+KANSAS,below average,1
+KENTUCKY,below average,1
+LOUISIANA,below average,1
+MAINE,average,1
+MARYLAND,average,1
+MASSACHUSETTS,above average,1
+MICHIGAN,below average,1
+MINNESOTA,above average,1
+MISSISSIPPI,average,1
+MISSOURI,below average,1
+MONTANA,average,1
+NEBRASKA,above average,1
+NEVADA,below average,1
+NEW_HAMPSHIRE,above average,1
+NEW_JERSEY,above average,1
+NEW_MEXICO,below average,1
+NEW_YORK,below average,1
+NORTH_CAROLINA,average,1
+NORTH_DAKOTA,above average,1
+OHIO,average,1
+OKLAHOMA,below average,1
+OREGON,below average,1
+PENNSYLVANIA,above average,1
+RHODE_ISLAND,average,1
+SOUTH_CAROLINA,below average,1
+SOUTH_DAKOTA,average,1
+TENNESSEE,average,1
+TEXAS,above average,1
+UTAH,above average,1
+VERMONT,average,1
+VIRGINIA,above average,1
+WASHINGTON,average,1
+WEST_VIRGINIA,below average,1
+WISCONSIN,above average,1
+WYOMING,below average,1
+ALABAMA,below average,0
+ALASKA,below average,0
+ARIZONA,below average,0
+ARKANSAS,below average,0
+CALIFORNIA,below average,0
+COLORADO,average,0
+CONNECTICUT,above average,0
+DELAWARE,below average,0
+DISTRICT_OF_COLUMBIA,below average,0
+FLORIDA,below average,0
+GEORGIA,below average,0
+HAWAII,below average,0
+IDAHO,above average,0
+ILLINOIS,average,0
+INDIANA,above average,0
+IOWA,below average,0
+KANSAS,below average,0
+KENTUCKY,below average,0
+LOUISIANA,below average,0
+MAINE,below average,0
+MARYLAND,below average,0
+MASSACHUSETTS,below average,0
+MICHIGAN,below average,0
+MINNESOTA,below average,0
+MISSISSIPPI,below average,0
+MISSOURI,below average,0
+MONTANA,average,0
+NEBRASKA,average,0
+NEVADA,below average,0
+NEW_HAMPSHIRE,above average,0
+NEW_JERSEY,above average,0
+NEW_MEXICO,below average,0
+NEW_YORK,below average,0
+NORTH_CAROLINA,average,0
+NORTH_DAKOTA,above average,0
+OHIO,above average,0
+OKLAHOMA,below average,0
+OREGON,below average,0
+PENNSYLVANIA,average,0
+RHODE_ISLAND,below average,0
+SOUTH_CAROLINA,below average,0
+SOUTH_DAKOTA,below average,0
+TENNESSEE,below average,0
+TEXAS,below average,0
+UTAH,average,0
+VERMONT,above average,0
+VIRGINIA,above average,0
+WASHINGTON,above average,0
+WEST_VIRGINIA,below average,0
+WISCONSIN,above average,0
+WYOMING,above average,0
